@@ -202,22 +202,6 @@ MINERS_PROFILES = {
 
 ---
 
-## 📝 Citation
-
-If you use this code or dataset in your research, please cite:
-
-```bibtex
-@article{fioroni2025dynamic,
-  title={Dynamic Escape Path Planning for Mine Water Inrush Based on Rolling Horizon Strategy under Multi-Source Conditions},
-  author={Fioroni, Soledad and Larreteguy, Axel E. and Savioli, Gabriela B.},
-  journal={[Journal Name]},
-  year={2025},
-  note={In press}
-}
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes:
@@ -236,18 +220,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Authors
-
-- **Soledad Fioroni** - *Universidad Argentina de la Empresa (UADE) / CONICET*
-- **Axel E. Larreteguy** - *Universidad Argentina de la Empresa (UADE)*
-- **Gabriela B. Savioli** - *Universidad de Buenos Aires*
-
----
 
 ## 📧 Contact
 
 For questions or collaboration inquiries:
-- Email: sfioroni@uade.edu.ar
+- Email: guo.zp@outlook.com
 - Issues: [GitHub Issues](https://github.com/yourusername/mine-water-inrush-escape/issues)
 
 ---
@@ -293,3 +270,4 @@ This software is provided for research and educational purposes only. Real-world
 **Status**: ✅ Research Complete | 🚀 Code Released | 📊 Dataset Available
 
 Last Updated: February 2025
+
